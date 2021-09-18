@@ -1,0 +1,23 @@
+# ScuffedWalls v1.5.0
+
+# Documentation on functions can be found at
+# https://github.com/thelightdesigner/ScuffedWalls/blob/main/Functions.md
+            
+# DM @thelightdesigner#1337 for more help?
+
+# Using this tool requires an understanding of Noodle Extensions.
+# https://github.com/Aeroluna/NoodleExtensions/blob/master/Documentation/AnimationDocs.md
+
+# Playtest your maps
+
+Workspace:Default
+
+0: Import
+   Path:ExpertPlusLawless_Old.dat
+1:TextToWall 
+path:litefont.png - Path to the font
+line:WOW A TEXT -Adds the text you want
+size:0.1 -The size of the text defult is 1
+thicc:12 - The thiccnes of the borders
+duration:1000 -How long the text last
+AnimateDefinitePosition:[0,5,10,0],[10,5,10,0.5],[-10,5,10,1] - Animations
