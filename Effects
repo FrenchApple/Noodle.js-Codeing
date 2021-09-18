@@ -824,36 +824,8 @@ Above event results in:
 
 AssignPathColor
 
-_interactable
-_interactable may be used in both AnimateTrack and AssignPathAnimation
 
-This property controls whether or not the player can interact with the note/wall.
 
-_interactable either is or isn't, there is no inbetween. When great than or equal to 1, the object can fully be interacted with. When less than 1, the object cannot be interacted with at all.
-
-Track _interactable and path _interactable will be multiplied together.
-
-Point definition: [interactable, time, (optional)easing]
-
-Examples
-// Point Definition
-{
-// neat example goes here
-}
-// AnimateTrack
-{
-// neat example goes here
-}
-Above event results in:
-
-(cool gif goes here)
-
-{
-// neat example goes here
-}
-Above event results in:
-
-(cool gif goes here)
 
 _definitePosition
 _definitePosition may be used in AssignPathAnimation
