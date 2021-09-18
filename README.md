@@ -1,6 +1,6 @@
 # Noodle.js-Codeing
-This is for the "Noodle Extensions" Effects.
-MAPPERS: EITHER USE MAPPING EXTENSIONS OR NOODLE EXTENSIONS, DO NOT USE BOTH AT THE SAME TIME. Noodle Extensions is meant to completely replace Mapping Extensions, as they both do the same thing. Having both requirements can break some features.
+# This is for the "Noodle Extensions" Effects.
+# MAPPERS: EITHER USE MAPPING EXTENSIONS OR NOODLE EXTENSIONS, DO NOT USE BOTH AT THE SAME TIME. Noodle Extensions is meant to completely replace Mapping Extensions, as they both do the same thing. Having both requirements can break some features.
 # NOODLE EXTENSIONS WILL NOT READ MAPS THAT USE MAPPING EXTENSIONS. YOU HAVE TO INSTALL MAPPING EXTENSIONS FOR THOSE. (You can have both of the mods installed at once
 # If you use any of these features, you MUST add "Noodle Extensions" as a requirement for your map for them to function, you can go Here to see how adding requirements to the info.dat works.
 # All of these cool features are done through CustomJSONData, from the "_customData" field or "_customEvents"
